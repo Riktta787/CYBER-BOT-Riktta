@@ -16,15 +16,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑_𖣘-𝐁𝐎𝐓 Riktta⚠️",
+    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑_𖣘-𝐁𝐎𝐓",
     "PREFIX": "/",
-    "ADMINBOT": [
-        "Riktta339199Bot",
-        "61576881339199",
-        "Riktta339199Bot"
+    "ADMINBOT": 
     ],
-    "NDH": [
-        "100000478146113"
+    "NDH": 
     ],
     "DATABASE": {
         "sqlite": {
